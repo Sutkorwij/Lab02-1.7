@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Trojkat {
-private boolean znak = true; // je¿eli znak == true - znak to +
+private boolean znak = true; // je¿eli znak == true - znak to + 
 
 public Trojkat()
 {	

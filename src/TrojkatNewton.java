@@ -4,8 +4,7 @@ public class TrojkatNewton {
 	
 	private boolean znakNewton = true;
 
-	public TrojkatNewton()
-	{
+	public TrojkatNewton(){
 	}
 	
 	public void znakSetter(boolean a){

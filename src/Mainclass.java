@@ -8,7 +8,6 @@ public class Mainclass {
 		Trojkat trojkat = new Trojkat();
 		TrojkatNewton trojkatNewton = new TrojkatNewton();
 
-
 		System.out.println("Testy wersji rekurencyjnej\n\n");
 		System.out.println("1) klasa ma pole znak, które domyœlnie jest ustawione na plus (true)");
 			boolean zmienznak = trojkat.znakGetter();
